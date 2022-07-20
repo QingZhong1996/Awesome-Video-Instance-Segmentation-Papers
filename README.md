@@ -9,6 +9,14 @@
 | Temporally Efficient Vision Transformer for Video Instance Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2204.08412v1.pdf) | [CODE](https://github.com/hustvl/tevit) |
 | PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2112.02582.pdf) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Efficient Video Instance Segmentation via Tracklet Query and Proposal | CVPR | Video | [PDF](https://arxiv.org/pdf/2203.01853.pdf) | [CODE](https://jialianwu.com/projects/EfficientVIS.html) |
+| Online Video Instance Segmentation via Robust Context Fusion | arxiv | Video | [PDF](https://arxiv.org/pdf/2207.05580.pdf) | CODE |
+| Waymo Open Dataset: Panoramic Video Panoptic Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.07704.pdf) | [DATASETS](https://waymo.com/open/) |
+| Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.07011.pdf) | CODE |
+| VITA: Video Instance Segmentation via Object Token Association | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.04403.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
+| Tag-Based Attention Guided Bottom-Up Approach for Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.10765.pdf) | CODE |
+| Less than Few: Self-Shot Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.08874.pdf) | CODE |
+
+
 
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
