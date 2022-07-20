@@ -18,3 +18,4 @@
 | Crossover Learning for Fast Online Video Instance Segmentation | ICCV | Video | [PDF](https://arxiv.org/pdf/2104.05970v1.pdf) | [CODE](https://github.com/hustvl/CrossVIS) |
 | TubeFormer-DeepLab: Video Mask Transformer | ECCV | Video | [PDF](https://arxiv.org/pdf/2205.15361.pdf) | CODE |
 | End-to-End Video Instance Segmentation via Spatial-Temporal Graph Neural Networks | ICCV | Video | [PDF](https://arxiv.org/pdf/2203.03145.pdf) | [CODE](https://github.com/lucaswithai/visgraph) |
+| Video Instance Segmentation with a Propose-Reduce Paradigm | ICCV | Video | [PDF](https://arxiv.org/pdf/2103.13746.pdf) | [CODE](https://github.com/dvlab-research/ProposeReduce) |
