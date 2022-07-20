@@ -22,8 +22,10 @@
 | Video Instance Segmentation with a Propose-Reduce Paradigm | ICCV | Video | [PDF](https://arxiv.org/pdf/2103.13746.pdf) | [CODE](https://github.com/dvlab-research/ProposeReduce) |
 | Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency | CVPR | Video | [PDF](https://arxiv.org/pdf/2103.12886.pdf) | CODE |
 | SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2103.10284.pdf) | [CODE](https://github.com/goodproj13/SG-Net) |
+| Occluded Video Instance Segmentation: Dataset and ICCV 2021 Challenge | IJCV | Video | [PDF](https://arxiv.org/pdf/2111.07950.pdf) | [DATASETS](http://songbai.site/ovis/) |
 
 ## 2020
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2006.11339.pdf) | [CODE](https://github.com/mcahny/vps) |
+| Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation | CVPR | Video | [PDF](https://arxiv.org/pdf/1912.04573.pdf) | CODE |
