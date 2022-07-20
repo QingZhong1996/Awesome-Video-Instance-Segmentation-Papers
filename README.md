@@ -3,4 +3,4 @@
 ## 2022
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation|CVPR|video|http://arxiv.org/abs/2204.04656|https://github.com/lxtGH/Video-K-Net|
+| Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation|CVPR|video|[PDF](http://arxiv.org/abs/2204.04656)|[CODE](https://github.com/lxtGH/Video-K-Net)|
