@@ -7,8 +7,7 @@
 | Robust High-Resolution Video Matting with Temporal Guidance |WACV|Video|[PDF](http://arxiv.org/abs/2108.11515)|[CODE](https://github.com/PeterL1n/RobustVideoMatting)|
 | VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation |CVPR|Video|[PDF](https://arxiv.org/abs/2112.04177)|[CODE](https://github.com/SuHoHan95/VISOLO)|
 | Towards Grand Unification of Object Tracking | ECCV | Video | [PDF](http://arxiv.org/abs/2207.07078) | [CODE](https://github.com/MasterBin-IIAU/Unicorn) |
-| XMem: Long-Term Video Object Segmentation
-with an Atkinson-Shiffrin Memory Model | ECCV | Video | [PDF](https://arxiv.org/abs/2207.07115) | [CODE](https://github.com/hkchengrex/XMem) |
+| XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model | ECCV | Video | [PDF](https://arxiv.org/abs/2207.07115) | [CODE](https://github.com/hkchengrex/XMem) |
 
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
