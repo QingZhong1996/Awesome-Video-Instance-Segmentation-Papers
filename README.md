@@ -31,6 +31,7 @@
 | Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency | CVPR | Video | [PDF](https://arxiv.org/pdf/2103.12886.pdf) | CODE |
 | SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2103.10284.pdf) | [CODE](https://github.com/goodproj13/SG-Net) |
 | Occluded Video Instance Segmentation: Dataset and ICCV 2021 Challenge | IJCV | Video | [PDF](https://arxiv.org/pdf/2111.07950.pdf) | [DATASETS](http://songbai.site/ovis/) |
+| Video Instance Segmentation using Inter-Frame Communication Transformers | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2106.03299v1.pdf) | [CODE](https://github.com/sukjunhwang/IFC) |
 
 ## 2020
 | Title | Venue | Supervision | PDF | CODE |
