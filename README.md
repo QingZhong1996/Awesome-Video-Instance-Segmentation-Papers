@@ -3,11 +3,12 @@
 ## 2022
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.08275) | [CODE](https://github.com/wjf5203/SeqFormer) |
+| In Defense of Online Models for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2207.10661v1.pdf) | [CODE](https://github.com/wjf5203/VNext) |
+| PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2112.02582.pdf) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation |CVPR|Video|[PDF](http://arxiv.org/abs/2204.04656)|[CODE](https://github.com/lxtGH/Video-K-Net)|
 | VISOLO: Grid-Based Space-Time Aggregation for Efficient Online Video Instance Segmentation |CVPR|Video|[PDF](https://arxiv.org/abs/2112.04177)|[CODE](https://github.com/SuHoHan95/VISOLO)|
-| SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.08275) | [CODE](https://github.com/wjf5203/SeqFormer) |
 | Temporally Efficient Vision Transformer for Video Instance Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2204.08412v1.pdf) | [CODE](https://github.com/hustvl/tevit) |
-| PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2112.02582.pdf) | [CODE](https://github.com/HarborYuan/PolyphonicFormer) |
 | Efficient Video Instance Segmentation via Tracklet Query and Proposal | CVPR | Video | [PDF](https://arxiv.org/pdf/2203.01853.pdf) | [CODE](https://jialianwu.com/projects/EfficientVIS.html) |
 | Online Video Instance Segmentation via Robust Context Fusion | arxiv | Video | [PDF](https://arxiv.org/pdf/2207.05580.pdf) | CODE |
 | Waymo Open Dataset: Panoramic Video Panoptic Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.07704.pdf) | [DATASETS](https://waymo.com/open/) |
