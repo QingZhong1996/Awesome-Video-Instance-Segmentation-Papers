@@ -3,6 +3,7 @@
 ## 2022
 | Title | Venue | Supervision | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| DeVIS: Making Deformable Transformers Work for Video Instance Segmentation | arXiv | Video | [PDF](https://arxiv.org/pdf/2207.11103v1.pdf) | [CODE](https://github.com/acaelles97/DeVIS) |
 | MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training | arXiv | Video | [PDF](http://arxiv.org/abs/2208.02245.pdf) | [CODE](https://github.com/NVlabs/MinVIS) |
 | Video Mask Transfiner for High-Quality Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2207.14012.pdf) | [CODE](https://www.vis.xyz/pub/vmt) |
 | SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.08275) | [CODE](https://github.com/wjf5203/SeqFormer) |
