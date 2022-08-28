@@ -18,7 +18,6 @@
 | Online Video Instance Segmentation via Robust Context Fusion | arxiv | Video | [PDF](https://arxiv.org/pdf/2207.05580.pdf) | CODE |
 | Waymo Open Dataset: Panoramic Video Panoptic Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.07704.pdf) | [DATASETS](https://waymo.com/open/) |
 | Consistent Video Instance Segmentation with Inter-Frame Recurrent Attention | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.07011.pdf) | CODE |
-| VITA: Video Instance Segmentation via Object Token Association | arxiv | Video | [PDF](https://arxiv.org/pdf/2206.04403.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
 | Tag-Based Attention Guided Bottom-Up Approach for Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.10765.pdf) | CODE |
 | Less than Few: Self-Shot Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.08874.pdf) | CODE |
 | STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation | arXiv | Video | [PDF](https://arxiv.org/pdf/2202.03747v1.pdf) | CODE |
