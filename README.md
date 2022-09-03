@@ -23,7 +23,7 @@
 | Tag-Based Attention Guided Bottom-Up Approach for Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.10765.pdf) | CODE |
 | Less than Few: Self-Shot Video Instance Segmentation | arxiv | Video | [PDF](https://arxiv.org/pdf/2204.08874.pdf) | CODE |
 | STC: Spatio-Temporal Contrastive Learning for Video Instance Segmentation | arXiv | Video | [PDF](https://arxiv.org/pdf/2202.03747v1.pdf) | CODE |
-
+| SipMaskv2: Enhanced Fast Image and Video Instance Segmentation | TPAMI | Video | [PDF](https://ieeexplore.ieee.org/abstract/document/9790321) | [CODE](https://github.com/JialeCao001/SipMask) |
 
 ## 2021
 | Title | Venue | Supervision | PDF | CODE |
@@ -47,3 +47,4 @@
 | Video Panoptic Segmentation | CVPR | Video | [PDF](https://arxiv.org/pdf/2006.11339.pdf) | [CODE](https://github.com/mcahny/vps) |
 | Classifying, Segmenting, and Tracking Object Instances in Video with Mask Propagation | CVPR | Video | [PDF](https://arxiv.org/pdf/1912.04573.pdf) | CODE |
 | CompFeat: Comprehensive Feature Aggregation for Video Instance Segmentation | AAAI | Video | [PDF](https://arxiv.org/pdf/2012.03400v1.pdf) | [CODE](https://github.com/SHI-Labs/CompFeat-for-Video-Instance-Segmentation) |
+| Sipmask: Spatial Information Preservation for Fast Image and Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2007.14772.pdf) | [CODE](https://github.com/JialeCao001/SipMask) |
