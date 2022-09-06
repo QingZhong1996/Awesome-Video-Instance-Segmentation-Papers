@@ -40,6 +40,7 @@
 | Occluded Video Instance Segmentation: Dataset and ICCV 2021 Challenge | IJCV | Video | [PDF](https://arxiv.org/pdf/2111.07950.pdf) | [DATASETS](http://songbai.site/ovis/) |
 | Video Instance Segmentation using Inter-Frame Communication Transformers | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2106.03299v1.pdf) | [CODE](https://github.com/sukjunhwang/IFC) |
 | Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2106.11958v2.pdf) | [CODE](https://github.com/SysCV/pcan) |
+| Limited Sampling Reference Frame for MaskTrack R-CNN | ICCVW | Video | [PDF](https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Li_Limited_Sampling_Reference_Frame_for_MaskTrack_R-CNN_ICCVW_2021_paper.pdf) | CODE |
 
 ## 2020
 | Title | Venue | Supervision | PDF | CODE |
