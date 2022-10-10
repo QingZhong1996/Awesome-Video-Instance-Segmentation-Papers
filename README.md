@@ -7,8 +7,8 @@
 | Video Instance Segmentation via Multi-scale Spatio-temporal Split Attention Transformer | ECCV | Video | [PDF](https://arxiv.org/abs/2203.13253) | [CODE](https://github.com/OmkarThawakar/MSSTS-VIS) |
 | InstanceFormer: An Online Video Instance Segmentation Framework | arXiv | Online | [PDF](https://arxiv.org/abs/2208.10547) | [CODE]() |
 | DeVIS: Making Deformable Transformers Work for Video Instance Segmentation | arXiv | Video | [PDF](https://arxiv.org/pdf/2207.11103v1.pdf) | [CODE](https://github.com/acaelles97/DeVIS) |
-| VITA: Video Instance Segmentation via Object Token Association | arXiv | Video | [PDF](https://arxiv.org/pdf/2206.04403v1.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
-| MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training | arXiv | Video | [PDF](http://arxiv.org/abs/2208.02245.pdf) | [CODE](https://github.com/NVlabs/MinVIS) |
+| VITA: Video Instance Segmentation via Object Token Association | NeurIPS | Video | [PDF](https://arxiv.org/pdf/2206.04403v1.pdf) | [CODE](https://github.com/sukjunhwang/VITA) |
+| MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training | NeurIPS | Video | [PDF](http://arxiv.org/abs/2208.02245.pdf) | [CODE](https://github.com/NVlabs/MinVIS) |
 | Video Mask Transfiner for High-Quality Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2207.14012.pdf) | [CODE](https://www.vis.xyz/pub/vmt) |
 | SeqFormer: a Frustratingly Simple Model for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/abs/2112.08275) | [CODE](https://github.com/wjf5203/SeqFormer) |
 | In Defense of Online Models for Video Instance Segmentation | ECCV | Video | [PDF](https://arxiv.org/pdf/2207.10661v1.pdf) | [CODE](https://github.com/wjf5203/VNext) |
